@@ -4,7 +4,7 @@ The application that shows the search for files that were produced by REVELEQ-ST
 
 ## Live
 
-- https://reveleq.github.io/Reveleq-studio/
+- https://reveleq.github.io/reveleq-files/
 
 
 
